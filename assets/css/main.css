@@ -3219,3 +3219,24 @@ input, select, textarea {
 			}
 
 	}
+.image.avatar.centered {
+	display: block;
+	margin: 0 auto 2em auto;
+}
+
+.align-right {
+	text-align: right;
+}
+
+.intro-text h1 {
+	line-height: 1.6em;
+	font-size: 1.1em;
+}
+
+.intro-text .quote {
+	display: block;
+	font-weight: 300;
+	color: #ccc;
+	font-style: italic;
+	font-size: 1em;
+}
