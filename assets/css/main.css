@@ -3225,3 +3225,8 @@ input, select, textarea {
 .bold-highlight {
     font-weight: 700 !important;
 }
+section#one {
+  text-align: left;
+  font-size: 1em;
+  max-width: 100%;
+}
