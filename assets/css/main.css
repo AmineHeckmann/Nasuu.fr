@@ -3225,17 +3225,3 @@ input, select, textarea {
 .bold-highlight {
     font-weight: 700 !important;
 }
-.button.cv-link {
-  background-color: #007bff;
-  color: #fff;
-  border: none;
-  border-radius: 30px;
-  padding: 0.75em 1.8em;
-  font-weight: bold;
-  transition: background-color 0.3s ease, transform 0.3s ease;
-}
-
-.button.cv-link:hover {
-  background-color: #0056b3;
-  transform: scale(1.05);
-}
