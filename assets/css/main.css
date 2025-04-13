@@ -3248,3 +3248,13 @@ input, select, textarea {
 .intro-text p {
   font-size: 0.75em;
 }
+.image.avatar {
+  display: inline-block;
+  transition: transform 0.4s ease, box-shadow 0.4s ease;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2); /* ombre de base */
+}
+
+.image.avatar:hover {
+  transform: scale(1.08); /* effet de zoom */
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.3); /* ombre plus prononcée au survol */
+}
