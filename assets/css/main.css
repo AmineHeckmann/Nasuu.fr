@@ -3219,3 +3219,6 @@ input, select, textarea {
 			}
 
 	}
+.bold-highlight {
+    font-weight: 700 !important;
+}
